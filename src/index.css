@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('./react.jpeg');
+  background-repeat: none;
+  background-size: cover;
+}
+.home .card img{
+    position: absolute;
+    left: -80px;
+    top:30px;
+}
+
+.home .card{
+  padding-left: 80px;
+  overflow: hidden;
+}
